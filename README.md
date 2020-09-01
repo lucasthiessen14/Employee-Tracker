@@ -5,6 +5,6 @@ This is a web application that is used to record the employee record at a compan
 
 ![](images/Mern.PNG)
 
-![](images/Mern1.PNG)
-
 ![](images/Mern2.PNG)
+
+![](images/Mern3.PNG)
