@@ -11,8 +11,11 @@ This is a web application that is used to record the employee record at a compan
 
 
 If you want to run this application you will need to:
+
 1.Have a Node installed on your computer
+
 2.Create a free MongoDB Atlas acount
+
 3.Create a local cluster on MOngoDB Atlas
 
 If you have all of these things the first thing you need to do is install the Create React App bootstrap. 
